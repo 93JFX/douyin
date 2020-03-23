@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'myDouyin' do
+pod 'Just'
+pod 'Kingfisher'
+pod 'MarqueeLabel'
+pod 'NVActivityIndicatorView'
+pod 'ChainableAnimations'
+pod 'SnapKit'
+end
+
